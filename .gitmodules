@@ -1,0 +1,3 @@
+[submodule "dotnet/web-api/BooksAPI"]
+	path = dotnet/web-api/BooksAPI
+	url = https://dre3000@github.com/dre3000/BooksAPI.git
