@@ -6,7 +6,10 @@ Examples of .NET Web API
 
 REST API with Attribute Routing in .NET Web API 2
 
-### BooksService
+### BookService
+
+Web Application with .NET Web API backend, used to manipulate back-end database.
+
 
 ## Authors
 
